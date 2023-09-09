@@ -5,12 +5,18 @@ class Solution {
 public:
   std::vector<std::vector<int>> generate(int numRows) {
     std::vector<std::vector<int>> result;
+    // Return empty vector of a vector if no numRows
     if (numRows <= 0) {
       return result;
     }
+
     for (int i{0}; i < numRows; i++) {
       std::vector<int> internal_vec;
+
+      // Add left side 1
       internal_vec.push_back(1);
+
+      // Add middle
       if (i > 1) {
         for (int j{0}; j < i - 1; j++) {
           int top_left = result.at(i - 1).at(j);
@@ -18,6 +24,8 @@ public:
           internal_vec.push_back(top_left + top_right);
         }
       }
+
+      // Add right side 1
       if (i != 0) {
         internal_vec.push_back(1);
       }
