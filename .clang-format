@@ -1,0 +1,57 @@
+Language: Cpp
+
+ColumnLimit: 0
+# BreakBeforeBraces:    Custom
+# BraceWrapping:
+#   AfterCaseLabel:     false
+#   AfterClass:         false
+#   AfterControlStatement:  Never
+#   AfterFunction:      false
+#   AfterNamespace:     false
+#   AfterStruct:        false
+#   AfterUnion:         false
+#   AfterExternBlock:   false
+#   BeforeCatch:        true
+#   BeforeElse:         true
+#   BeforeWhile:        false
+#   IndentBraces:       false
+#   SplitEmptyFunction: true
+
+AllowShortBlocksOnASingleLine: Empty
+# AllowShortIfStatementsOnASingleLine: Never
+AllowShortFunctionsOnASingleLine: Empty
+
+# IndentCaseBlocks:     false
+# IndentCaseLabels:     true
+
+IndentWidth: 2
+
+PointerAlignment: Left
+# QualifierAlignment:   Leave
+
+# SeparateDefinitionBlocks: Leave
+
+# AlignAfterOpenBracket:  Align
+BinPackParameters: false
+BinPackArguments: false
+# AlwaysBreakAfterReturnType: TopLevelDefinitions
+
+MaxEmptyLinesToKeep: 2
+
+# IncludeBlocks:        Preserve
+# SortIncludes:         Never
+
+# SpaceAfterCStyleCast:               false
+# SpaceAfterLogicalNot:               false
+# SpaceAfterTemplateKeyword:          false
+# SpaceAroundPointerQualifiers:       Default
+# SpaceBeforeAssignmentOperators:     true
+# SpaceBeforeCaseColon:               false
+# SpaceBeforeParens:                  Never
+# SpaceBeforeRangeBasedForLoopColon:  true
+# SpaceBeforeSquareBrackets:          false
+# SpaceInEmptyBlock:                  true
+# SpaceInEmptyParentheses:            false
+# SpacesBeforeTrailingComments:       3
+# SpacesInContainerLiterals:          false
+# SpacesInSquareBrackets:             false
