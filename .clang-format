@@ -24,7 +24,7 @@ AllowShortFunctionsOnASingleLine: Empty
 # IndentCaseBlocks:     false
 # IndentCaseLabels:     true
 
-IndentWidth: 2
+IndentWidth: 4
 
 PointerAlignment: Left
 # QualifierAlignment:   Leave
