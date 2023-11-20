@@ -1,2 +1,1 @@
-# Problem
-[1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/?envType=daily-question&envId=2023-11-19)
+# <a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/?envType=daily-question&envId=2023-11-19" target="_blank">1887. Reduction Operations to Make the Array Elements Equal</a>

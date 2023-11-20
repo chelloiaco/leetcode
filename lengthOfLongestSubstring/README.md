@@ -1,2 +1,1 @@
-# Problem
-[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+# <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/" target="_blank">3. Longest Substring Without Repeating Characters</a>
